@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "ReservationManagement.Controllers.UserController.GetAllUsersController",
+    "Method": "GetAllUser",
+    "RelativePath": "api/GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ReservationManagement.DTOs.UserDTO, ReservationManagement.DTOs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ReservationManagement.Controllers.UserController.RegisterUserController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/RegisterUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "ReservationManagement.DTOs.RegisterUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

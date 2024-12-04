@@ -1,0 +1,594 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Ioc\\ReservationManagement.Ioc.csproj": {}
+  },
+  "projects": {
+    "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.DTOs\\ReservationManagement.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.DTOs\\ReservationManagement.DTOs.csproj",
+        "projectName": "ReservationManagement.DTOs",
+        "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.DTOs\\ReservationManagement.DTOs.csproj",
+        "packagesPath": "C:\\Users\\AFVL\\.nuget\\packages\\",
+        "outputPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AFVL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Entities\\ReservationManagement.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Entities\\ReservationManagement.Entities.csproj",
+        "projectName": "ReservationManagement.Entities",
+        "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Entities\\ReservationManagement.Entities.csproj",
+        "packagesPath": "C:\\Users\\AFVL\\.nuget\\packages\\",
+        "outputPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AFVL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Ioc\\ReservationManagement.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Ioc\\ReservationManagement.Ioc.csproj",
+        "projectName": "ReservationManagement.Ioc",
+        "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Ioc\\ReservationManagement.Ioc.csproj",
+        "packagesPath": "C:\\Users\\AFVL\\.nuget\\packages\\",
+        "outputPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AFVL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Presenters\\ReservationManagement.Presenters.csproj": {
+                "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Presenters\\ReservationManagement.Presenters.csproj"
+              },
+              "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.RepositoryEFCore\\ReservationManagement.RepositoryEFCore.csproj": {
+                "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.RepositoryEFCore\\ReservationManagement.RepositoryEFCore.csproj"
+              },
+              "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.UseCases\\ReservationManagement.UseCases.csproj": {
+                "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.UseCases\\ReservationManagement.UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Presenters\\ReservationManagement.Presenters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Presenters\\ReservationManagement.Presenters.csproj",
+        "projectName": "ReservationManagement.Presenters",
+        "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Presenters\\ReservationManagement.Presenters.csproj",
+        "packagesPath": "C:\\Users\\AFVL\\.nuget\\packages\\",
+        "outputPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Presenters\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AFVL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.UserCasesPorts\\ReservationManagement.UseCasesPorts.csproj": {
+                "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.UserCasesPorts\\ReservationManagement.UseCasesPorts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.RepositoryEFCore\\ReservationManagement.RepositoryEFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.RepositoryEFCore\\ReservationManagement.RepositoryEFCore.csproj",
+        "projectName": "ReservationManagement.RepositoryEFCore",
+        "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.RepositoryEFCore\\ReservationManagement.RepositoryEFCore.csproj",
+        "packagesPath": "C:\\Users\\AFVL\\.nuget\\packages\\",
+        "outputPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.RepositoryEFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AFVL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Entities\\ReservationManagement.Entities.csproj": {
+                "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Entities\\ReservationManagement.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Services\\ReservationManagement.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Services\\ReservationManagement.Services.csproj",
+        "projectName": "ReservationManagement.Services",
+        "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Services\\ReservationManagement.Services.csproj",
+        "packagesPath": "C:\\Users\\AFVL\\.nuget\\packages\\",
+        "outputPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AFVL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.UseCases\\ReservationManagement.UseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.UseCases\\ReservationManagement.UseCases.csproj",
+        "projectName": "ReservationManagement.UseCases",
+        "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.UseCases\\ReservationManagement.UseCases.csproj",
+        "packagesPath": "C:\\Users\\AFVL\\.nuget\\packages\\",
+        "outputPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.UseCases\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AFVL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Entities\\ReservationManagement.Entities.csproj": {
+                "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Entities\\ReservationManagement.Entities.csproj"
+              },
+              "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Services\\ReservationManagement.Services.csproj": {
+                "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.Services\\ReservationManagement.Services.csproj"
+              },
+              "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.UserCasesPorts\\ReservationManagement.UseCasesPorts.csproj": {
+                "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.UserCasesPorts\\ReservationManagement.UseCasesPorts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.UserCasesPorts\\ReservationManagement.UseCasesPorts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.UserCasesPorts\\ReservationManagement.UseCasesPorts.csproj",
+        "projectName": "ReservationManagement.UseCasesPorts",
+        "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.UserCasesPorts\\ReservationManagement.UseCasesPorts.csproj",
+        "packagesPath": "C:\\Users\\AFVL\\.nuget\\packages\\",
+        "outputPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.UserCasesPorts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AFVL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.DTOs\\ReservationManagement.DTOs.csproj": {
+                "projectPath": "D:\\TRABAJOS\\Api-ReservationManagement\\Api-ReservationManagement\\ReservationManagement.DTOs\\ReservationManagement.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

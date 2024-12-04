@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ReservationManagement.Entities/1.0.0": {
+        "runtime": {
+          "ReservationManagement.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReservationManagement.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

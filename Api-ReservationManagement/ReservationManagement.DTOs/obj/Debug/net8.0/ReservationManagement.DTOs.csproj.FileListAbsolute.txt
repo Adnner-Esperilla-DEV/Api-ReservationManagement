@@ -1,0 +1,12 @@
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.DTOs\bin\Debug\net8.0\ReservationManagement.DTOs.deps.json
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.DTOs\bin\Debug\net8.0\ReservationManagement.DTOs.dll
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.DTOs\bin\Debug\net8.0\ReservationManagement.DTOs.pdb
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.DTOs\obj\Debug\net8.0\ReservationManagement.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.DTOs\obj\Debug\net8.0\ReservationManagement.DTOs.AssemblyInfoInputs.cache
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.DTOs\obj\Debug\net8.0\ReservationManagement.DTOs.AssemblyInfo.cs
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.DTOs\obj\Debug\net8.0\ReservationManagement.DTOs.csproj.CoreCompileInputs.cache
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.DTOs\obj\Debug\net8.0\ReservationManagement.DTOs.sourcelink.json
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.DTOs\obj\Debug\net8.0\ReservationManagement.DTOs.dll
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.DTOs\obj\Debug\net8.0\refint\ReservationManagement.DTOs.dll
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.DTOs\obj\Debug\net8.0\ReservationManagement.DTOs.pdb
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.DTOs\obj\Debug\net8.0\ref\ReservationManagement.DTOs.dll

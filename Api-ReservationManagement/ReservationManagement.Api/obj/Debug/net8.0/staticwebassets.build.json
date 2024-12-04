@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TbkggXRwCU7DRDDMApMFP677ATORA7yxIc7CQfZZZVE=",
+  "Source": "ReservationManagement.Api",
+  "BasePath": "_content/ReservationManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

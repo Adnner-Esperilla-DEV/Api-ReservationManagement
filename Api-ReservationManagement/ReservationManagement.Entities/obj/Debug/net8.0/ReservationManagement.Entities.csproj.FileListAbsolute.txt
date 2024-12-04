@@ -1,0 +1,12 @@
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Entities\bin\Debug\net8.0\ReservationManagement.Entities.deps.json
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Entities\bin\Debug\net8.0\ReservationManagement.Entities.dll
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Entities\bin\Debug\net8.0\ReservationManagement.Entities.pdb
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Entities\obj\Debug\net8.0\ReservationManagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Entities\obj\Debug\net8.0\ReservationManagement.Entities.AssemblyInfoInputs.cache
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Entities\obj\Debug\net8.0\ReservationManagement.Entities.AssemblyInfo.cs
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Entities\obj\Debug\net8.0\ReservationManagement.Entities.csproj.CoreCompileInputs.cache
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Entities\obj\Debug\net8.0\ReservationManagement.Entities.sourcelink.json
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Entities\obj\Debug\net8.0\ReservationManagement.Entities.dll
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Entities\obj\Debug\net8.0\refint\ReservationManagement.Entities.dll
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Entities\obj\Debug\net8.0\ReservationManagement.Entities.pdb
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Entities\obj\Debug\net8.0\ref\ReservationManagement.Entities.dll

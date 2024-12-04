@@ -1,0 +1,16 @@
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.UserCasesPorts\bin\Debug\net8.0\ReservationManagement.UseCasesPorts.deps.json
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.UserCasesPorts\bin\Debug\net8.0\ReservationManagement.UseCasesPorts.dll
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.UserCasesPorts\bin\Debug\net8.0\ReservationManagement.UseCasesPorts.pdb
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.UserCasesPorts\bin\Debug\net8.0\ReservationManagement.DTOs.dll
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.UserCasesPorts\bin\Debug\net8.0\ReservationManagement.DTOs.pdb
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.UserCasesPorts\obj\Debug\net8.0\ReservationManagement.UseCasesPorts.csproj.AssemblyReference.cache
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.UserCasesPorts\obj\Debug\net8.0\ReservationManagement.UseCasesPorts.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.UserCasesPorts\obj\Debug\net8.0\ReservationManagement.UseCasesPorts.AssemblyInfoInputs.cache
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.UserCasesPorts\obj\Debug\net8.0\ReservationManagement.UseCasesPorts.AssemblyInfo.cs
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.UserCasesPorts\obj\Debug\net8.0\ReservationManagement.UseCasesPorts.csproj.CoreCompileInputs.cache
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.UserCasesPorts\obj\Debug\net8.0\ReservationManagement.UseCasesPorts.sourcelink.json
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.UserCasesPorts\obj\Debug\net8.0\Reservat.94A256A0.Up2Date
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.UserCasesPorts\obj\Debug\net8.0\ReservationManagement.UseCasesPorts.dll
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.UserCasesPorts\obj\Debug\net8.0\refint\ReservationManagement.UseCasesPorts.dll
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.UserCasesPorts\obj\Debug\net8.0\ReservationManagement.UseCasesPorts.pdb
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.UserCasesPorts\obj\Debug\net8.0\ref\ReservationManagement.UseCasesPorts.dll

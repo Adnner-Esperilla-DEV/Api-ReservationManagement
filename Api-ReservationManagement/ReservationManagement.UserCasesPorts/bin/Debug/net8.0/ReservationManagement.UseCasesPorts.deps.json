@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ReservationManagement.UseCasesPorts/1.0.0": {
+        "dependencies": {
+          "ReservationManagement.DTOs": "1.0.0"
+        },
+        "runtime": {
+          "ReservationManagement.UseCasesPorts.dll": {}
+        }
+      },
+      "ReservationManagement.DTOs/1.0.0": {
+        "runtime": {
+          "ReservationManagement.DTOs.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReservationManagement.UseCasesPorts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReservationManagement.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

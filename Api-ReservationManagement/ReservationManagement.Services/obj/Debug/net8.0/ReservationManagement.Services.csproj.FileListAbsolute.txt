@@ -1,0 +1,13 @@
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Services\bin\Debug\net8.0\ReservationManagement.Services.deps.json
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Services\bin\Debug\net8.0\ReservationManagement.Services.dll
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Services\bin\Debug\net8.0\ReservationManagement.Services.pdb
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Services\obj\Debug\net8.0\ReservationManagement.Services.csproj.AssemblyReference.cache
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Services\obj\Debug\net8.0\ReservationManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Services\obj\Debug\net8.0\ReservationManagement.Services.AssemblyInfoInputs.cache
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Services\obj\Debug\net8.0\ReservationManagement.Services.AssemblyInfo.cs
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Services\obj\Debug\net8.0\ReservationManagement.Services.csproj.CoreCompileInputs.cache
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Services\obj\Debug\net8.0\ReservationManagement.Services.sourcelink.json
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Services\obj\Debug\net8.0\ReservationManagement.Services.dll
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Services\obj\Debug\net8.0\refint\ReservationManagement.Services.dll
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Services\obj\Debug\net8.0\ReservationManagement.Services.pdb
+D:\TRABAJOS\Api-ReservationManagement\Api-ReservationManagement\ReservationManagement.Services\obj\Debug\net8.0\ref\ReservationManagement.Services.dll
